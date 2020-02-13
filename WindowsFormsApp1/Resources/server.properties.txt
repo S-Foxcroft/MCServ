@@ -1,0 +1,12 @@
+allow-nether=true
+server-port=25565
+hardcore=false
+level-type=default
+pvp=true
+difficulty=2
+enable-command-block=false
+gamemode=0
+broadcast-console-to-ops=false
+max-players=20
+motd=A Minecraft Server
+level-seed=
